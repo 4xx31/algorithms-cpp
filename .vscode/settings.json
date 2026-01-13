@@ -93,6 +93,11 @@
     "valarray": "cpp",
     "variant": "cpp",
     "format": "cpp",
-    "stdfloat": "cpp"
+    "stdfloat": "cpp",
+    "flat_map": "cpp",
+    "flat_set": "cpp",
+    "generator": "cpp",
+    "print": "cpp",
+    "text_encoding": "cpp"
   }
 }
